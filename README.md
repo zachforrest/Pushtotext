@@ -13,13 +13,13 @@ Getting Started:
 - Test your install by running; 'rustc --version'
 
 ## CREATE YOUR RUST PROJECTS FOLDER;
-- Create a new folder for your awesome rust projects; 'mkdir projects'
-- Change directory to your projects folder; 'cd projects'
-- (optional) make sure you are in the right folder; 'pwd'
+- Create a new folder for your awesome rust projects; `mkdir projects`
+- Change directory to your projects folder; `cd projects`
+- (optional) make sure you are in the right folder; `pwd`
 
 ## CREATE YOUR RUST PROJECT;
-- Create a new rust application by running; 'cargo new APPLICATION_NAME'
-- Change directory to your new project; 'cd APPLICATION_NAME'
+- Create a new rust application by running; `cargo new APPLICATION_NAME`
+- Change directory to your new project; `cd APPLICATION_NAME`
 
 ## GET TWILIO INFO;
 - Create a free Twilio account and capture the account SID, AuthToken and phone number.
@@ -30,7 +30,7 @@ Getting Started:
 - Update the ALLCAPS areas with your account SID, Authtoken, phone number and body text.
 
 ## RUN THE CODE;
-- From terminal run the following command; 'cargo run'
+- From terminal run the following command; `cargo run`
 
 ## Look out for the text to go through!
 Keep an eye out for the text to go through.
