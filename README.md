@@ -17,9 +17,8 @@ Getting Started:
 - Change directory to your projects folder; `cd projects`
 - (optional) make sure you are in the right folder; `pwd`
 
-## CREATE YOUR RUST PROJECT;
-- Create a new rust application by running; `cargo new APPLICATION_NAME`
-- Change directory to your new project; `cd APPLICATION_NAME`
+## CLONE THE REPOSITORY;
+- Clone the project by running; `git clone https://github.com/zachforrest/Pushtotext.git`
 
 ## GET TWILIO INFO;
 - Create a free Twilio account and capture the account SID, AuthToken and phone number.
